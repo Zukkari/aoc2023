@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="DayOne\Solution.fs" />
+        <Content Include="DayOne\input_full.txt" />
+        <Content Include="DayOne\input_small.txt" />
+    </ItemGroup>
+
+</Project>
