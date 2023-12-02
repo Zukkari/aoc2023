@@ -9,6 +9,7 @@
         <Compile Include="Day1\Solution.fs" />
         <Content Include="Day1\input_full.txt" />
         <Content Include="Day1\input_small.txt" />
+        <Compile Include="Day2\Solution.fsx.fs" />
     </ItemGroup>
 
 </Project>

@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "aoc", "aoc.fsproj", "{AEB70E1A-FD69-4924-BBB0-AED25F1A3690}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Aoc", "Aoc.fsproj", "{AEB70E1A-FD69-4924-BBB0-AED25F1A3690}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Aoc.Tests", "Aoc.Tests\Aoc.Tests.fsproj", "{575DF744-4A6E-4922-A4BF-4D9D7A7A13E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{AEB70E1A-FD69-4924-BBB0-AED25F1A3690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB70E1A-FD69-4924-BBB0-AED25F1A3690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB70E1A-FD69-4924-BBB0-AED25F1A3690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575DF744-4A6E-4922-A4BF-4D9D7A7A13E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DF744-4A6E-4922-A4BF-4D9D7A7A13E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DF744-4A6E-4922-A4BF-4D9D7A7A13E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DF744-4A6E-4922-A4BF-4D9D7A7A13E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
