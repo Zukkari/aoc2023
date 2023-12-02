@@ -6,9 +6,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="DayOne\Solution.fs" />
-        <Content Include="DayOne\input_full.txt" />
-        <Content Include="DayOne\input_small.txt" />
+        <Compile Include="Day1\Solution.fs" />
+        <Content Include="Day1\input_full.txt" />
+        <Content Include="Day1\input_small.txt" />
     </ItemGroup>
 
 </Project>
